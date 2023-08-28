@@ -4,8 +4,6 @@ Dive into a more interactive learning experience with Knowledge's new Chat featu
 
 The Chat feature is designed to transform the way you interact with your data, offering a more engaging and exploratory approach to learning. Whether you're looking to better comprehend a complex topic or simply exploring new ideas, the Chat feature is your personal knowledge companion.
 
-<img width="1112" alt="Screenshot 2023-05-16 at 12 41 35 AM" src="https://github.com/sunlight0102/ChatGpt-TypeScript/assets/19367848/40ce5d4e-b539-4f78-adee-470ff1659522">
-
 # Screenshots
 
 **Inbox**
